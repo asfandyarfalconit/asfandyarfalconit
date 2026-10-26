@@ -38,7 +38,7 @@ I specialize in developing end-to-end solutions using modern JavaScript technolo
 - Cloud infrastructure and DevOps
 
 ### 🤝 Let's Connect
-- GitHub: https://github.com/Asfandyaar2
+- GitHub: https://github.com/asfandyarfalconit
 - LinkedIn: [Add your LinkedIn profile URL]
 - Portfolio: [Add your portfolio URL]
 
