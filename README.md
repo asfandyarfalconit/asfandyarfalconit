@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Asfand Yar 👋
 
-<!--
-**asfandyarfalconit/asfandyarfalconit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Software Engineer | MERN Stack | AI Engineering
 
-Here are some ideas to get you started:
+I'm a Full Stack Software Engineer with 7+ years of experience building scalable web applications, SaaS platforms, REST APIs, and interactive user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in developing end-to-end solutions using modern JavaScript technologies and am expanding my expertise in AI-powered applications, LLMs, and Retrieval-Augmented Generation (RAG).
+
+### 🚀 Tech Stack
+
+**Frontend**
+- React.js, Next.js
+- Redux Toolkit, Context API, Jotai
+- React Native, TypeScript
+- HTML, CSS, Ant Design
+
+**Backend**
+- Node.js, Express.js
+- MongoDB, REST APIs
+- PostgreSQL, Prisma
+- Authentication and API integrations
+
+**AI & Cloud**
+- LLM integrations, RAG, LangChain
+- AWS, Docker, CI/CD
+- Exploring NestJS and DevOps
+
+### 💼 What I Do
+- Build scalable full-stack web applications
+- Develop SaaS platforms and REST APIs
+- Integrate third-party services and AI features
+- Build responsive, user-friendly interfaces
+- Improve application performance and security
+
+### 🌱 Currently Exploring
+- AI-powered applications and RAG systems
+- Advanced backend architecture with NestJS
+- Cloud infrastructure and DevOps
+
+### 🤝 Let's Connect
+- GitHub: https://github.com/Asfandyaar2
+- LinkedIn: [Add your LinkedIn profile URL]
+- Portfolio: [Add your portfolio URL]
+
+I'm always interested in collaborating on meaningful projects and building practical software solutions.
