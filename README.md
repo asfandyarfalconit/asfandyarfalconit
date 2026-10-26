@@ -39,7 +39,8 @@ I specialize in developing end-to-end solutions using modern JavaScript technolo
 
 ### 🤝 Let's Connect
 - GitHub: https://github.com/asfandyarfalconit
-- LinkedIn: [Add your LinkedIn profile URL]
-- Portfolio: [Add your portfolio URL]
+- Portfolio:https://asfand-portfolio.vercel.app
+
+
 
 I'm always interested in collaborating on meaningful projects and building practical software solutions.
