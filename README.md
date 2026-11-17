@@ -39,7 +39,7 @@ I specialize in developing end-to-end solutions using modern JavaScript technolo
 
 ### 🤝 Let's Connect
 - GitHub: https://github.com/asfandyarfalconit
-- Portfolio:https://asfand-portfolio.vercel.app
+- Portfolio:https://asfandyar-portfolio.vercel.app
 
 
 
